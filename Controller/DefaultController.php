@@ -1,6 +1,6 @@
 <?php
 
-namespace udan\ClusterDepoyBundle\Controller;
+namespace udan\ClusterDepoy\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;

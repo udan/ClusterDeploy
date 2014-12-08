@@ -1,6 +1,6 @@
 <?php
 
-namespace udan\ClusterDepoyBundle\Tests\Controller;
+namespace udan\ClusterDepoy\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
