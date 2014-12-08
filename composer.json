@@ -1,5 +1,5 @@
 {
-    "name": "udan/ClusterDeploy",
+    "name": "udan/cluster-deploy",
     "license": "GNU",
     "type": "symfony-bundle",
     "description": "Symfony2 cluster deploymend bundle",
